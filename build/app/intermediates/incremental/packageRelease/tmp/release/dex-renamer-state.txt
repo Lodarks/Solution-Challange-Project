@@ -1,0 +1,4 @@
+#Tue Feb 20 23:24:27 TRT 2024
+base.0=/Users/ahmedyusufsirin/Desktop/Work/GDSC ZAİM/Solution Challange/Meal/food_share/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
